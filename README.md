@@ -130,30 +130,30 @@ You can view all available endpoints in an interactive format at:
 
 Below are the screenshots of the **Smart Job Portal** project showing various features and interfaces.
 
-### 🏠 Home Page
+
 ![Screenshot 113](Screenshot%20(113).png)
 
-### 🔐 Login & Registration
+
 ![Screenshot 114](Screenshot%20(114).png)
 ![Screenshot 115](Screenshot%20(115).png)
 ![Screenshot 116](Screenshot%20(116).png)
 
-### 👨‍💼 User Dashboard
+
 ![Screenshot 117](Screenshot%20(117).png)
 ![Screenshot 118](Screenshot%20(118).png)
 ![Screenshot 119](Screenshot%20(119).png)
 
-### 💼 Job Listings & Applications
+
 ![Screenshot 120](Screenshot%20(120).png)
 ![Screenshot 121](Screenshot%20(121).png)
 ![Screenshot 124](Screenshot%20(124).png)
 
-### ⚙️ Admin Panel
+
 ![Screenshot 137](Screenshot%20(137).png)
 ![Screenshot 138](Screenshot%20(138).png)
 ![Screenshot 139](Screenshot%20(139).png)
 
-### 📊 Reports & Analytics
+
 ![Screenshot 140](Screenshot%20(140).png)
 ![Screenshot 141](Screenshot%20(141).png)
 ![Screenshot 142](Screenshot%20(142).png)
